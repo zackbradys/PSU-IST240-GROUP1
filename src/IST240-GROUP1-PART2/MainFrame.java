@@ -1,7 +1,9 @@
 // MainFrame.java
-// IST240 - Group 1 - Project Part 2
+// IST240 - Group 1 - Group Project Part 2
+// Brett Strausser, Zack Brady, and Lawrence Burns
 
 import java.awt.*;
+import java.awt.event.*;
 import javax.swing.*;
 
 public class MainFrame extends JFrame {
@@ -14,7 +16,7 @@ public class MainFrame extends JFrame {
     MainMap map;
 
     public MainFrame() {
-        super("IST240 - Group 1 - Project Part 2");
+        super("IST240 - Group 1 - Final Group Project Part 2");
 
         controlpanel = new ControlPanel();
         getContentPane().add(controlpanel, "Center");
