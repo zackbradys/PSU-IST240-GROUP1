@@ -1,20 +1,11 @@
-import javax.swing.*;
+// GameOver.java
+// IST240 - Group 1 - Group Project Part 2
+// Brett Strausser, Zack Brady, and Lawrence Burns
+
 import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
 
- 
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
- 
-
-/**
- *
- * @author Brett
- */
 public class GameOver extends JPanel{
     
     JLabel gO1;
