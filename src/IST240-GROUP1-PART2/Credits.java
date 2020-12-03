@@ -1,5 +1,6 @@
-// Credits.java
+// App.java
 // IST240 - Group 1 - Project Part 2
+// Brett Strausser, Zack Brady, and Lawrence Burns
 
 import java.awt.*;
 import java.awt.event.*;
