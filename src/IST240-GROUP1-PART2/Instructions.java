@@ -1,5 +1,6 @@
 // Instructions.java
-// IST240 - Group 1 - Project Part 1
+// IST240 - Group 1 - Group Project Part 2
+// Brett Strausser, Zack Brady, and Lawrence Burns
 
 import java.awt.*;
 import javax.swing.*;
